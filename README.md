@@ -337,7 +337,7 @@ Never expose sensitive credentials such as:
 ```
 ## 👨‍💻 Author
 
-**Rubayat Shaikh**
+**Rubayat Karim**
 
 GitHub:
 
